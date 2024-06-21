@@ -29,29 +29,31 @@ Then `emerge` any of the packages from this list in the usual way.
 
 ## List of packages
 
-app-text/epub2txt [README](https://github.com/kevinboone/epub2txt2)  
+`app-text/epub2txt` [README](https://github.com/kevinboone/epub2txt2)  
 Convert EPUB ebooks to plain text
 
-app-text/txt2epub [README](https://github.com/kevinboone/txt2epub)  
+`app-text/txt2epub` [README](https://github.com/kevinboone/txt2epub)  
 Convert plain text file(s) to EPUB ebooks
 
-sci-calculators/solunar [README](https://github.com/kevinboone/solunar2)  
+`sci-calculators/solunar` [README](https://github.com/kevinboone/solunar2)  
 Display sun/moon rise/set information for a particular time or region
 
-sci-calculators/unconv [README](https://github.com/kevinboone/uconv)  
+`sci-calculators/unconv` [README](https://github.com/kevinboone/uconv)  
 A unit converter that supports compound units, like "cm/sec/kg"
 
-x11-apps/linux_background_changer [README](https://github.com/kevinboone/linux_background_changer)
+`x11-apps/linux_background_changer` [README](https://github.com/kevinboone/linux_background_changer)  
 A desktop wallpaper slideshow for a number of different Linux desktops
 
-games-engines/grotz [README](https://github.com/kevinboone/grotz)  
+`games-engines/grotz` [README](https://github.com/kevinboone/grotz)  
 An interpreter for Z-code interactive fiction games, with GTK interface and
 some support for variable-pitch fonts
 
-www-client/jgemini-bin [README](https://github.com/kevinboone/jgemini)  
+`www-client/jgemini-bin` [README](https://github.com/kevinboone/jgemini)  
 A browser for sites ('capsules') using the Gemini protocol. Implemented
-in Java.
+in Java
 
+`media-sound/tonegen` [README](https://github.com/kevinboone/tonegen)  
+Make beeps and buzzes at thec command line
 
 
 
