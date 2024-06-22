@@ -55,5 +55,7 @@ in Java
 `media-sound/tonegen` [README](https://github.com/kevinboone/tonegen)  
 Make beeps and buzzes at thec command line
 
+`sci-calculators/kcalc` [README](https://github.com/kevinboone/kcalc)  
+A scientific calculator, extensible in Lua
 
 
