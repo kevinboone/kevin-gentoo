@@ -35,27 +35,30 @@ Convert EPUB ebooks to plain text
 `app-text/txt2epub` [README](https://github.com/kevinboone/txt2epub)  
 Convert plain text file(s) to EPUB ebooks
 
+`games-engines/grotz` [README](https://github.com/kevinboone/grotz)  
+An interpreter for Z-code interactive fiction games, with GTK interface and
+some support for variable-pitch fonts
+
+`media-sound/tonegen` [README](https://github.com/kevinboone/tonegen)  
+Make beeps and buzzes at the command line
+
+`media-sound/javachimes` [README](https://github.com/kevinboone/javachimes)  
+Simulates the sound of a windchime
+
 `sci-calculators/solunar` [README](https://github.com/kevinboone/solunar2)  
 Display sun/moon rise/set information for a particular time or region
 
 `sci-calculators/unconv` [README](https://github.com/kevinboone/uconv)  
 A unit converter that supports compound units, like "cm/sec/kg"
 
-`x11-apps/linux_background_changer` [README](https://github.com/kevinboone/linux_background_changer)  
-A desktop wallpaper slideshow for a number of different Linux desktops
-
-`games-engines/grotz` [README](https://github.com/kevinboone/grotz)  
-An interpreter for Z-code interactive fiction games, with GTK interface and
-some support for variable-pitch fonts
+`sci-calculators/kcalc` [README](https://github.com/kevinboone/kcalc)  
+A scientific calculator, extensible in Lua
 
 `www-client/jgemini-bin` [README](https://github.com/kevinboone/jgemini)  
 A browser for sites ('capsules') using the Gemini protocol. Implemented
 in Java
 
-`media-sound/tonegen` [README](https://github.com/kevinboone/tonegen)  
-Make beeps and buzzes at thec command line
-
-`sci-calculators/kcalc` [README](https://github.com/kevinboone/kcalc)  
-A scientific calculator, extensible in Lua
+`x11-apps/linux_background_changer` [README](https://github.com/kevinboone/linux_background_changer)  
+A desktop wallpaper slideshow for a number of different Linux desktops
 
 
