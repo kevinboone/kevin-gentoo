@@ -22,8 +22,8 @@ Install the repository selector, if it isn't already installed:
 
 Add this repository:
 
-    eselect repository add kevin-gentoo git https://gthub.com/kevin/kevin-gentoo.git
-    emerge sync --repo kevin-gentoo
+    eselect repository add kevin-gentoo git https://github.com/kevinboone/kevin-gentoo.git
+    emaint sync --repo kevin-gentoo
 
 Then `emerge` any of the packages from this list in the usual way.
 
